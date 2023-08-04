@@ -103,6 +103,4 @@ const startNewGame = () => {
     }
 }
 
-startNewGame()
-
 restartBtn.addEventListener("click", startNewGame)
