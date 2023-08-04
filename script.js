@@ -104,3 +104,5 @@ const startNewGame = () => {
 }
 
 restartBtn.addEventListener("click", startNewGame)
+
+displayHighestScore()
